@@ -3,6 +3,9 @@
 
 [Python3爬取今日头条文章视频数据，完美解决as、cp、_signature的加密方法](https://blog.csdn.net/qq_42279077/article/details/102858335)
 
+# 原文链接
+[Python3爬取今日头条文章视频数据，完美解决_signature的加密方法(2020-10-16版)](https://blog.csdn.net/qq_42279077/article/details/109110503)
+
 # QQ群聊
 `855262907`
 
